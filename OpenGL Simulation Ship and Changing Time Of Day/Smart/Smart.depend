@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1719513640 source:c:\users\hp\desktop\newcg\smart\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1719558509 source:c:\users\hp\desktop\newcg\smart\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<Mmsystem.h>
+	<fstream>
+	<GL/freeglut.h>
+
