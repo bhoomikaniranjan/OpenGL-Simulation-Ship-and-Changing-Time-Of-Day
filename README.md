@@ -70,14 +70,24 @@ Experience a mesmerizing journey with our **OpenGL-based interactive sailing shi
 
 ## 📸 Screenshots
 
-1. **Morning Scene:**
-   ![Morning](link_to_image)
+1. **Early Morning Scene:**
+   ![Early Morning](/Screenshots/Early Morning mood.png)
 
-2. **Night Scene with Rockets:**
-   ![Night](link_to_image)
+2. **Morning Scene:**
+   ![Morning](/Screenshots/Morning mood.png)
 
+3. **Afternoon Scene:**
+   ![Afternoon](/Screenshots/Afternoon mood.png)
+
+4. **Evening Scene:**
+   ![Evening](/Screenshots/ Evening mood.png)
+
+5. **Night Scene:**
+   ![Night](/Screenshots/Night mood.png)
+
+6. **Midnight Scene:**
+   ![Midnight](/Screenshots/Midnight mood.png)
 ---
-
 ## 🛠️ How to Run
 
 1. Install the required libraries (`OpenGL` and `GLUT`).
