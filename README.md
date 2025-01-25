@@ -82,5 +82,24 @@ Experience a mesmerizing journey with our **OpenGL-based interactive sailing shi
 - [OpenGL Documentation](https://www.opengl.org/documentation/)
 
 ---
+## 📸 Screenshots
+
+1. **Early Morning Scene:**
+   ![Early Morning](screenshots/Early%20Morning%20mode.png)
+
+2. **Morning Scene:**
+   ![Morning](screenshots/Morning%20mode.png)
+
+3. **Afternoon Scene:**
+   ![Afternoon](screenshots/Afternoon%20mood.png)
+
+4. **Evening Scene:**
+   ![Evening](screenshots/Evening%20mood.png)
+
+5. **Night Scene:**
+   ![Night](screenshots/Night%20mood.png)
+
+6. **Midnight Scene:**
+   ![Midnight](screenshots/Midnight%20Mood.png)
 
 Bring the open seas to life—sail through dynamic scenes and create unforgettable experiences with **Sailing of Ship: Day and Night Simulation**!
