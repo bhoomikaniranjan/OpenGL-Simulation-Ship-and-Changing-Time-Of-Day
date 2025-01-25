@@ -67,27 +67,6 @@ Experience a mesmerizing journey with our **OpenGL-based interactive sailing shi
 - **Naval Battle Mechanics:** Strategy-based ship combat.
 
 ---
-
-## 📸 Screenshots
-
-1. **Early Morning Scene:**
-   ![Early Morning](/Screenshots/Early Morning mood.png)
-
-2. **Morning Scene:**
-   ![Morning](/Screenshots/Morning mood.png)
-
-3. **Afternoon Scene:**
-   ![Afternoon](/Screenshots/Afternoon mood.png)
-
-4. **Evening Scene:**
-   ![Evening](/Screenshots/ Evening mood.png)
-
-5. **Night Scene:**
-   ![Night](Afternoon mood.png)
-
-6. **Midnight Scene:**
-   ![Midnight](/Screenshots/Midnight mood.png)
----
 ## 🛠️ How to Run
 
 1. Install the required libraries (`OpenGL` and `GLUT`).
