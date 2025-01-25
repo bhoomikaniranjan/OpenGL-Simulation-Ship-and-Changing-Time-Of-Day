@@ -44,42 +44,11 @@ Experience a mesmerizing journey with our **OpenGL-based interactive sailing shi
 - **Night:** A starry sky illuminated by the moon reflects on the calm water.
 
 ---
-
-## ⚙️ System Requirements
-
-### Hardware
-- **Processor:** Intel Core i3 or better
-- **RAM:** Minimum 2 GB
-- **Graphics Card:** 2 GB or higher
-
-### Software
-- **Operating System:** Windows, Linux, or macOS
-- **Compiler:** VC++ 6.0
-- **Libraries:** OpenGL, GLUT
-
----
-
-## 🌟 Future Enhancements
-
-- **Realistic Water Simulations:** Advanced shaders for waves and splashes.
-- **Weather Effects:** Rain, fog, and wind simulations.
-- **Multiplayer Mode:** Collaborative sailing experiences.
-- **Naval Battle Mechanics:** Strategy-based ship combat.
-
----
 ## 🛠️ How to Run
 
 1. Install the required libraries (`OpenGL` and `GLUT`).
 2. Compile the source code using the **VC++ 6.0** compiler.
 3. Run the executable and enjoy the immersive simulation!
-
----
-
-## 📚 References
-
-- OpenGL Programming Guide
-- Mathematics for 3D Game Programming and Computer Graphics
-- [OpenGL Documentation](https://www.opengl.org/documentation/)
 
 ---
 ## 📸 Screenshots
