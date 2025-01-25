@@ -83,7 +83,7 @@ Experience a mesmerizing journey with our **OpenGL-based interactive sailing shi
    ![Evening](/Screenshots/ Evening mood.png)
 
 5. **Night Scene:**
-   ![Night](Screenshots/Night mood.png)
+   ![Night](Afternoon mood.png)
 
 6. **Midnight Scene:**
    ![Midnight](/Screenshots/Midnight mood.png)
