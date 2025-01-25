@@ -1,2 +1,97 @@
-# OpenGL-Simulation-Ship-and-Changing-Time-Of-Day-
-This project is a 2D sailing ship simulation created using OpenGL. It showcases dynamic day-night transitions, ship movement, and interactive features like rocket launches, providing a simple yet engaging way to explore computer graphics programming concepts.
+# OpenGL-Simulation-Ship-and-Changing-Time-Of-Day-🌅🌌
+
+Experience a mesmerizing journey with our **OpenGL-based interactive sailing ship simulation** that dynamically transitions through the day—from the serene early morning to the tranquil midnight sky.
+
+---
+
+## 🚀 Key Features
+
+- **Dynamic Time Transitions:** Seamlessly shift between morning, afternoon, evening, and night modes using simple keyboard controls.
+- **Interactive Ship Movement:** Control the ship's motion forward or backward to navigate the scene.
+- **Realistic Effects:** Watch the environment change as the ship sails, with lighting and colors adjusted to match the time of day.
+- **Special Effects:** Fire rockets into the sky for an extra layer of interactivity.
+
+---
+
+## 🎮 Controls
+
+| Key | Action                          |
+|-----|---------------------------------|
+| `y` | Early Morning Mode              |
+| `m` | Morning Mode                    |
+| `a` | Afternoon Mode                  |
+| `e` | Evening Mode                    |
+| `n` | Night Mode                      |
+| `d` | Midnight Mode                   |
+| `6` | Move Ship Forward               |
+| `4` | Move Ship Backward              |
+| `z` | Shoot Rocket                    |
+| `Esc` | Exit                          |
+
+---
+
+## 🖥️ Technical Overview
+
+- **Built Using:** OpenGL
+- **Programming Language:** Visual C++
+- **Environment:** Cross-platform (Windows, Linux, macOS)
+- **Graphics Library:** GLUT (OpenGL Utility Toolkit)
+
+### 🎨 Simulation Stages
+- **Morning:** Warm orange hues with soft sunlight.
+- **Afternoon:** Bright blue skies with sharp, clear shadows.
+- **Evening:** Shades of red and purple bathe the ship in golden light.
+- **Night:** A starry sky illuminated by the moon reflects on the calm water.
+
+---
+
+## ⚙️ System Requirements
+
+### Hardware
+- **Processor:** Intel Core i3 or better
+- **RAM:** Minimum 2 GB
+- **Graphics Card:** 2 GB or higher
+
+### Software
+- **Operating System:** Windows, Linux, or macOS
+- **Compiler:** VC++ 6.0
+- **Libraries:** OpenGL, GLUT
+
+---
+
+## 🌟 Future Enhancements
+
+- **Realistic Water Simulations:** Advanced shaders for waves and splashes.
+- **Weather Effects:** Rain, fog, and wind simulations.
+- **Multiplayer Mode:** Collaborative sailing experiences.
+- **Naval Battle Mechanics:** Strategy-based ship combat.
+
+---
+
+## 📸 Screenshots
+
+1. **Morning Scene:**
+   ![Morning](link_to_image)
+
+2. **Night Scene with Rockets:**
+   ![Night](link_to_image)
+
+---
+
+## 🛠️ How to Run
+
+1. Install the required libraries (`OpenGL` and `GLUT`).
+2. Compile the source code using the **VC++ 6.0** compiler.
+3. Run the executable and enjoy the immersive simulation!
+
+---
+
+## 📚 References
+
+- OpenGL Programming Guide
+- Mathematics for 3D Game Programming and Computer Graphics
+- [OpenGL Documentation](https://www.opengl.org/documentation/)
+
+---
+
+Bring the open seas to life—sail through dynamic scenes and create unforgettable experiences with **Sailing of Ship: Day and Night Simulation**!
